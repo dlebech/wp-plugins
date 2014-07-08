@@ -7,4 +7,4 @@ Currently contains only one plugin: Dead Simple Google Analytics.
 
 License
 -------
-The Unlicense, i.e. Public Domain
+GPLv2 to conform with [Wordpress guidelines](http://wordpress.org/about/license/).
